@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atique5md
+- 👋 Hi, I’m Md Atique
 - 👀 I’m interested in Android Devlopment
 - 🌱 I’m currently learning Android using Java
 - 📫 How to reach me atiquem550@gmail.com
