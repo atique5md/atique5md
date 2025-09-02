@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Devlopment
 - 🌱 I’m currently learning Android using Java
 - 📫 How to reach me atiquem550@gmail.com
-- 😄 Pronouns: Md Atique
+<!--- 😄 Pronouns: Md Atique  -->
 - ⚡ Fun fact: Always curiosity to learn new technology
 
 <!---
