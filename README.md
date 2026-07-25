@@ -1,11 +1,244 @@
-- 👋 Hi, I’m Md Atique
-- 👀 I’m interested in Android Devlopment
-- 🌱 I’m currently learning Android using Java
-- 📫 How to reach me atiquem550@gmail.com
-<!--- 😄 Pronouns: Md Atique  -->
-- ⚡ Fun fact: Always curiosity to learn new technology
+<h1 align="center">
+Hi 👋, I'm MD Atique
+</h1>
 
-<!---
-atique5md/atique5md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">
+DevOps Engineer | Cloud Enthusiast | Linux Lover | AWS Explorer ☁️
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Docker+%7C+Kubernetes;Terraform+%7C+Jenkins;Always+Learning+New+Things" />
+</p>
+
+---
+
+# 🚀 About Me
+
+- 🎓 MCA Graduate
+- ☁️ Learning Cloud & DevOps
+- 🐧 Linux Enthusiast
+- 🚀 Building Scalable Infrastructure
+- 📦 Docker & Kubernetes
+- ⚙️ CI/CD Automation
+- 🌱 Currently Learning
+
+```
+Terraform
+GitHub Actions
+Jenkins
+Prometheus
+Grafana
+```
+
+- 💬 Ask me about
+
+```
+Linux
+AWS
+Docker
+Kubernetes
+Terraform
+Git
+CI/CD
+```
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github" />
+</p>
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,bash" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,linux" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🚀 AWS Three Tier Architecture
+
+- Terraform
+- AWS VPC
+- EC2
+- ALB
+- Aurora MySQL
+- Nginx
+
+⭐ Infrastructure as Code deployment on AWS.
+
+---
+
+## 🐳 Dockerized Notes Application
+
+- React
+- Django
+- Docker
+- AWS EC2
+- Nginx
+
+⭐ Containerized Full Stack Application.
+
+---
+
+## 🤖 Fixify AI
+
+AI Powered Code Review Application
+
+Tech Stack
+
+- React
+- Node.js
+- Express
+- Gemini API
+
+⭐ Intelligent Code Review with AI.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=7"/>
+
+</p>
+
+---
+
+# ⚡ Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# ☕ Fun Fact
+
+```text
+while(alive){
+    eat();
+    code();
+    sleep();
+    repeat();
+}
+```
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
