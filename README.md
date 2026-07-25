@@ -1,13 +1,13 @@
 <!-- ========================= HEADER ========================= -->
 
-<h1 align="center">Hi 👋, I'm MD Atique</h1>
+<h1 align="center">Hi, I'm MD Atique</h1>
 
 <h3 align="center">
-🚀 DevOps Engineer | AWS Cloud Enthusiast | Linux Lover | Open Source Learner
+DevOps Engineer | AWS Cloud Enthusiast | Linux Lover | Open Source Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+%26+Infrastructure+Automation;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+CI%2FCD;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+%26+Infrastructure+Automation;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+CI%2FCD;Always+Learning+Something+New+" />
 </p>
 
 <p align="center">
@@ -18,19 +18,19 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🎓 MCA Graduate passionate about **Cloud Computing & DevOps**
+ MCA Graduate passionate about **Cloud Computing & DevOps**
 
-☁️ Hands-on experience with **AWS, Linux, Docker, Kubernetes, Terraform & Git**
+ Hands-on experience with **AWS, Linux, Docker, Kubernetes, Terraform & Git**
 
-🚀 Interested in **Infrastructure as Code, CI/CD Automation and Cloud-Native Technologies**
+ Interested in **Infrastructure as Code, CI/CD Automation and Cloud-Native Technologies**
 
-💡 Love solving real-world deployment and infrastructure challenges
+ Love solving real-world deployment and infrastructure challenges
 
-🌱 Currently learning
+ Currently learning
 
 - GitHub Actions
 - Jenkins
@@ -39,7 +39,7 @@
 - Advanced Kubernetes
 - DevSecOps
 
-💬 Ask me about
+ Ask me about
 
 - Linux
 - AWS
@@ -72,7 +72,7 @@
 
 ---
 
-## ⚒️ Tech Stack
+##  Tech Stack
 
 <p align="center">
 
@@ -82,28 +82,28 @@
 
 ---
 
-## 🎯 Currently Working On
+##  Currently Working On
 
-- ☁️ AWS Cloud Infrastructure
-- 🚀 Kubernetes Deployments
-- ⚙️ CI/CD Pipelines using Jenkins & GitHub Actions
-- 🐳 Docker Multi-Container Applications
-- 🏗️ Infrastructure as Code with Terraform
-- 📊 Monitoring using Prometheus & Grafana
+-  AWS Cloud Infrastructure
+-  Kubernetes Deployments
+-  CI/CD Pipelines using Jenkins & GitHub Actions
+-  Docker Multi-Container Applications
+-  Infrastructure as Code with Terraform
+-  Monitoring using Prometheus & Grafana
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-| 🚀 Project | Description | Technologies |
+|  Project | Description | Technologies |
 |------------|-------------|--------------|
-| ☁️ **AWS Multi-Tier Architecture Deployment** | Provisioned AWS infrastructure using Terraform with EC2, ALB, Aurora MySQL, VPC, IAM and Nginx. | AWS • Terraform • Linux • Nginx |
-| 🐳 **Dockerized Notes Application** | Built and deployed a full-stack React & Django Notes App using Docker on AWS EC2 with Nginx. | Docker • React • Django • AWS |
-| 🤖 **Fixify AI** | AI-powered Code Review platform that analyzes code and provides intelligent suggestions using Gemini API. | React • Node.js • Express • Gemini API |
+|  **AWS Multi-Tier Architecture Deployment** | Provisioned AWS infrastructure using Terraform with EC2, ALB, Aurora MySQL, VPC, IAM and Nginx. | AWS • Terraform • Linux • Nginx |
+|  **Dockerized Notes Application** | Built and deployed a full-stack React & Django Notes App using Docker on AWS EC2 with Nginx. | Docker • React • Django • AWS |
+|  **Fixify AI** | AI-powered Code Review platform that analyzes code and provides intelligent suggestions using Gemini API. | React • Node.js • Express • Gemini API |
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
 
@@ -115,7 +115,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
 
@@ -125,7 +125,7 @@
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
 
@@ -135,7 +135,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
 
@@ -145,16 +145,16 @@
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
-- ☁️ AWS Cloud Essentials
-- 🚀 DevOps Training (In Progress)
-- 🐳 Docker & Kubernetes
-- 🏗️ Terraform Fundamentals
+-  AWS Cloud Essentials
+-  DevOps Training (In Progress)
+-  Docker & Kubernetes
+-  Terraform Fundamentals
 
 ---
 
-## 💭 Dev Quote
+##  Dev Quote
 
 <p align="center">
 
@@ -164,7 +164,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 > **Enable GitHub Actions before using this.**
 
@@ -176,7 +176,7 @@
 
 ---
 
-## 💻 Fun Code
+##  Fun Code
 
 ```cpp
 while (!success)
@@ -191,7 +191,7 @@ while (!success)
 
 ---
 
-## ❤️ Support Me
+## Support Me
 
 If you like my work, consider giving a ⭐ to my repositories.
 
