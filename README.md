@@ -48,11 +48,11 @@ CI/CD
 
 <p align="left">
 
-<a href="linkedin.com/in/md-55-atique">
+<a href="https://www.linkedin.com/in/md-55-atique">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="portfolio-atique-md.netlify.app">
+<a href="https://www.portfolio-atique-md.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome">
 </a>
 
