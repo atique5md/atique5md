@@ -1,9 +1,9 @@
 <h1 align="center">
-Hi 👋, I'm MD Atique
+Hi, I'm MD Atique
 </h1>
 
 <h3 align="center">
-DevOps Engineer | Cloud Enthusiast | Linux Lover | AWS Explorer ☁️
+DevOps Engineer | Cloud Enthusiast | Linux Lover | AWS Explorer 
 </h3>
 
 <p align="center">
@@ -12,15 +12,15 @@ DevOps Engineer | Cloud Enthusiast | Linux Lover | AWS Explorer ☁️
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-- 🎓 MCA Graduate
-- ☁️ Learning Cloud & DevOps
-- 🐧 Linux Enthusiast
-- 🚀 Building Scalable Infrastructure
-- 📦 Docker & Kubernetes
-- ⚙️ CI/CD Automation
-- 🌱 Currently Learning
+-  MCA Graduate
+-  Learning Cloud & DevOps
+-  Linux Enthusiast
+-  Building Scalable Infrastructure
+-  Docker & Kubernetes
+-  CI/CD Automation
+-  Currently Learning
 
 ```
 Terraform
@@ -30,7 +30,7 @@ Prometheus
 Grafana
 ```
 
-- 💬 Ask me about
+-  Ask me about
 
 ```
 Linux
@@ -64,7 +64,7 @@ CI/CD
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Cloud
 
@@ -110,9 +110,9 @@ CI/CD
 
 ---
 
-# 📌 Featured Projects
+#  Featured Projects
 
-## 🚀 AWS Three Tier Architecture
+##  AWS Multi Tier Architecture Deployment
 
 - Terraform
 - AWS VPC
@@ -121,11 +121,11 @@ CI/CD
 - Aurora MySQL
 - Nginx
 
-⭐ Infrastructure as Code deployment on AWS.
+ Infrastructure as Code deployment on AWS.
 
 ---
 
-## 🐳 Dockerized Notes Application
+##  Dockerized Notes Application
 
 - React
 - Django
@@ -133,11 +133,11 @@ CI/CD
 - AWS EC2
 - Nginx
 
-⭐ Containerized Full Stack Application.
+ Containerized Full Stack Application.
 
 ---
 
-## 🤖 Fixify AI
+##  Fixify AI
 
 AI Powered Code Review Application
 
@@ -148,11 +148,11 @@ Tech Stack
 - Express
 - Gemini API
 
-⭐ Intelligent Code Review with AI.
+ Intelligent Code Review with AI.
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 
@@ -164,7 +164,7 @@ Tech Stack
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 
@@ -174,7 +174,7 @@ Tech Stack
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 
@@ -184,17 +184,7 @@ Tech Stack
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=7"/>
-
-</p>
-
----
-
-# ⚡ Dev Quote
+#  Dev Quote
 
 <p align="center">
 
@@ -204,7 +194,7 @@ Tech Stack
 
 ---
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 
 <p align="center">
 
@@ -224,7 +214,7 @@ Tech Stack
 
 ---
 
-# ☕ Fun Fact
+#  Fun Fact
 
 ```text
 while(alive){
