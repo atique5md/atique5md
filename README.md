@@ -48,15 +48,15 @@ CI/CD
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
+<a href="linkedin.com/in/md-55-atique">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="portfolio-atique-md.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:atiquem550@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 
@@ -168,7 +168,8 @@ Tech Stack
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=atique5md
+&theme=tokyonight"/>
 
 </p>
 
@@ -178,7 +179,8 @@ Tech Stack
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atique5md
+&theme=tokyo-night"/>
 
 </p>
 
@@ -198,7 +200,9 @@ Tech Stack
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/atique5md
+/atique5md
+/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -208,7 +212,8 @@ Tech Stack
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=atique5md
+&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
