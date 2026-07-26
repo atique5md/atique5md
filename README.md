@@ -32,12 +32,10 @@ DevOps Engineer | AWS Cloud Enthusiast | Linux Lover | Open Source Learner
 
  Currently learning
 
-- GitHub Actions
-- Jenkins
-- Prometheus
-- Grafana
 - Advanced Kubernetes
 - DevSecOps
+- MLOps
+- Helm
 
  Ask me about
 
@@ -49,6 +47,10 @@ DevOps Engineer | AWS Cloud Enthusiast | Linux Lover | Open Source Learner
 - Git/GitHub
 - CI/CD
 - Nginx
+- GitHub Actions
+- Jenkins
+- Prometheus
+- Grafana
 
 ---
 
