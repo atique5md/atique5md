@@ -54,7 +54,7 @@ DevOps Engineer | AWS Cloud Enthusiast | Linux Lover | Open Source Learner
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="center">
 
