@@ -33,10 +33,9 @@ DevOps Engineer | AWS Cloud Enthusiast | Linux Lover | Open Source Learner
 
  Currently learning
 
-- Advanced Kubernetes
+- Advanced Kubernetes (Helm)
 - DevSecOps
 - MLOps
-- Helm
 
  Ask me about
 
