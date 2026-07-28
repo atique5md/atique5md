@@ -6,6 +6,7 @@
 DevOps Engineer | AWS Cloud Enthusiast | Linux Lover | Open Source Learner
 </h3>
 
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+%26+Infrastructure+Automation;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+CI%2FCD;Always+Learning+Something+New+" />
 </p>
