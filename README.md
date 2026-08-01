@@ -25,7 +25,7 @@ DevOps Engineer | AWS Cloud Enthusiast | Linux Lover | Open Source Learner
 
  MCA Graduate passionate about **Cloud Computing & DevOps**
 
- Hands-on experience with **AWS, Linux, Docker, Kubernetes, Terraform & Git**
+ Hands-on experience with **AWS, Linux, Docker, Kubernetes, Terraform, Jankins & Git**
 
  Interested in **Infrastructure as Code, CI/CD Automation and Cloud-Native Technologies**
 
